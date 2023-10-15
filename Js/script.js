@@ -13,7 +13,7 @@ const productData = {
   "Canned goods": {"line": 6, "stand": 6},
   "Household items": {"line": 5, "stand": 7},
   "Toiletries": {"line": 7, "stand": 7},
-  "Petproducts": {"line": 7, "stand": 7}
+  "Pet products": {"line": 7, "stand": 7}
 };
 
 // Function to show product modal
