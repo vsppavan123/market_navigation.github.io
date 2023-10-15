@@ -1,0 +1,16 @@
+{
+  "vegetables": {"line": 1, "stand": 1},
+  "fruits": {"line": 1, "stand": 2},
+  "Dairy products": {"line": 2, "stand": 2},
+  "General items": {"line": 2, "stand": 3},
+  "snacks": {"line": 3, "stand": 3},
+  "Meats": {"line": 3, "stand": 4},
+  "Drinks": {"line": 4, "stand": 4},
+  "frozen": {"line": 4, "stand": 5},
+  "baking": {"line": 5, "stand": 5},
+  "Condiments": {"line": 5, "stand": 6},
+  "Canned goods": {"line": 6, "stand": 6},
+  "Household items": {"line": 5, "stand": 7},
+  "Toiletries": {"line": 7, "stand": 7},
+  "Pet products": {"line": 7, "stand": 7}
+}
